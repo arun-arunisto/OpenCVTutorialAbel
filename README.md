@@ -5,3 +5,13 @@
 - Color grading - Split and Merge
 - open 3 images in one plt figure
 - (3x3) (r, g, b) - (r, b, g)
+
+## 10.07.2024
+## Tasks to Complete
+- Converting color to hsv
+- split the image h, s, v
+- merge the splited h, s, v
+- crop
+- resize
+- saving image
+- flip
