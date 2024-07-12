@@ -15,3 +15,12 @@
 - resize
 - saving image
 - flip
+
+## 12.07.2023
+## Tasks to complete
+- Drawing Lines
+- Drawing circle
+- Drawing rectangle
+- Adding Text
+- Brightness
+- Contrast
