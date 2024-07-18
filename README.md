@@ -16,7 +16,7 @@
 - saving image
 - flip
 
-## 12.07.2023
+## 12.07.2024
 ## Tasks to complete
 - Drawing Lines
 - Drawing circle
@@ -24,3 +24,7 @@
 - Adding Text
 - Brightness
 - Contrast
+
+## 18.07.2024
+- images dateset : [Click the link to download images](https://drive.google.com/drive/folders/1abS5xKt75GppSrvlgjXZVkol-uVIo1yD?usp=sharing)
+- create HDR images with the above images and the algorithms used for tonemap
