@@ -38,6 +38,9 @@
 > [!NOTE]
 > You can use colab notebooks or ide's(vscode/pycharm), but if you use ide's you dont need to add the code for video encoding you can directly play the video
 
+## 31.07.2024
+Object detection using TF model predefined model: [Click here to get the model](https://drive.google.com/drive/folders/1i_Foxvh5B5q8n5RMgtyx8PhOKKywqs8H?usp=sharing)
+
 
 ## 30.07.2024
 - Face detection model files (***prototxt*** & ***caffemodel***) file : [Click this link to download the file](https://drive.google.com/drive/folders/1kx6ou8K3Ll0BJARSZwZ0KYkFiB_SUJ63?usp=sharing)
