@@ -45,3 +45,5 @@
 ## 31.07.2024
 Object detection using TF model predefined model: [Click here to get the model](https://drive.google.com/drive/folders/1i_Foxvh5B5q8n5RMgtyx8PhOKKywqs8H?usp=sharing)
 
+## 12.08.2024
+Post Detection using OpenCV. Caffe Model and Prototext Link: [Click Here](https://drive.google.com/drive/folders/10rmGUyJsuVMJfBVG59S6rGVaCbLo6JEs?usp=sharing)
