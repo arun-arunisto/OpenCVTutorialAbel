@@ -47,3 +47,13 @@ Object detection using TF model predefined model: [Click here to get the model](
 
 ## 12.08.2024
 Post Detection using OpenCV. Caffe Model and Prototext Link: [Click Here](https://drive.google.com/drive/folders/10rmGUyJsuVMJfBVG59S6rGVaCbLo6JEs?usp=sharing)
+
+## 13.08.2024
+hand_tracking_mp - Hand Tracking Code using MediaPipe Package
+
+> [!TIP]
+> Use the below hand landmarks image for future reference
+
+![HandLandmarks](https://github.com/user-attachments/assets/434c0ecf-70d7-4ab2-bf48-c22af19cdae1)
+
+
