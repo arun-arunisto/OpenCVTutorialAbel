@@ -56,4 +56,5 @@ hand_tracking_mp - Hand Tracking Code using MediaPipe Package
 
 ![HandLandmarks](https://github.com/user-attachments/assets/434c0ecf-70d7-4ab2-bf48-c22af19cdae1)
 
-
+## 14.08.2024
+face_detection_mp - Face Detection Code using MediaPipe Library
