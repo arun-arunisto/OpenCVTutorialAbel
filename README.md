@@ -58,3 +58,9 @@ hand_tracking_mp - Hand Tracking Code using MediaPipe Package
 
 ## 14.08.2024
 face_detection_mp - Face Detection Code using MediaPipe Library
+
+## 15.08.2024
+face_mesh_mp - Face Mesh Code using Mediapipe
+
+> [!IMPORTANT]
+> `refine_landmarks=True` for iris landmarks enable
