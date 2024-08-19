@@ -73,7 +73,7 @@ pose_estimation_mp - Pose Detection using mediapipe
 > [!TIP]
 > Use the above landmarks for future reference
 
-For videos you can use: ![www.pexels.com](https://www.pexels.com/)
+For videos you can use: [www.pexels.com](https://www.pexels.com/)
 
-Official Documentation of mediapipe: ![Click Here](https://ai.google.dev/edge/mediapipe/solutions/guide)
+Official Documentation of mediapipe: [Click Here](https://ai.google.dev/edge/mediapipe/solutions/guide)
 
