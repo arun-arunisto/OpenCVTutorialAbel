@@ -64,3 +64,23 @@ face_mesh_mp - Face Mesh Code using Mediapipe
 
 > [!IMPORTANT]
 > `refine_landmarks=True` for iris landmarks enable
+
+## 19.08.2024
+pose_estimation_mp - Pose Detection using mediapipe
+
+![pose_landmarks](https://github.com/user-attachments/assets/1bde14df-72ed-4b58-957f-99affa8b6712)
+
+> [!TIP]
+> Use the above landmarks for future reference
+
+For videos you can use: [www.pexels.com](https://www.pexels.com/)
+
+Official Documentation of mediapipe: [Click Here](https://ai.google.dev/edge/mediapipe/solutions/guide)
+
+## 20.08.2024
+
+***AR USING OPENCV***
+
+- Marker Based AR
+
+  Official Documentation of aruco markers [Click Here](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
