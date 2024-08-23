@@ -84,3 +84,6 @@ Official Documentation of mediapipe: [Click Here](https://ai.google.dev/edge/med
 - Marker Based AR
 
   Official Documentation of aruco markers [Click Here](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
+
+## 23.08.2024
+Modules using media pipe basics.
