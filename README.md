@@ -96,3 +96,8 @@ model_training - Trained a image classification model using `scikit-learn`
 
   Dataset used for the model you can find [here](https://drive.google.com/drive/folders/10bc6-HYQzjNomgX4-vCMSRsSNVeZy1ii?usp=sharing)
   
+## 04.09.2024
+Sample ML App - Using Gradio framework
+
+> [!NOTE]
+> Model used for this application that trained model using `scikit-learn`
