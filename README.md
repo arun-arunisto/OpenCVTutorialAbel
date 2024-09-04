@@ -83,7 +83,16 @@ Official Documentation of mediapipe: [Click Here](https://ai.google.dev/edge/med
 
 - Marker Based AR
 
+
+
   Official Documentation of aruco markers [Click Here](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
 
 ## 23.08.2024
 Modules using media pipe basics.
+
+
+## 27.08.2024
+model_training - Trained a image classification model using `scikit-learn`
+
+  Dataset used for the model you can find [here](https://drive.google.com/drive/folders/10bc6-HYQzjNomgX4-vCMSRsSNVeZy1ii?usp=sharing)
+  
