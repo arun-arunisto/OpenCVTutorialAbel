@@ -101,3 +101,6 @@ Sample ML App - Using Gradio framework
 
 > [!NOTE]
 > Model used for this application that trained model using `scikit-learn`
+
+## 05.09.2024
+Pandas Guide
