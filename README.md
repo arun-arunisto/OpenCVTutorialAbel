@@ -101,3 +101,9 @@ Sample ML App - Using Gradio framework
 
 > [!NOTE]
 > Model used for this application that trained model using `scikit-learn`
+
+## 05.09.2024
+Pandas Guide
+
+> [!NOTE]
+> Dataset used for the pandas guide link you can find [here](https://drive.google.com/drive/folders/1lRVHYfqEug44NOucsc2OCJcDOQzH3v-4?usp=sharing)
