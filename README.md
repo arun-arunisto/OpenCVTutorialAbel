@@ -112,7 +112,7 @@ Pandas Guide
 - Numpy Guide 
 - Seaborn Guide
 
-  > [!NOTE]
+  > [!TIP]
   > For seaborn you can use the datasets from [here.](https://drive.google.com/drive/folders/1X5Wvsw-_BuoKrOA-b4j6bYGLmDmBbYuA?usp=sharing)
   > And the colab notebook for all the maps you can find [here.](https://drive.google.com/drive/folders/1X5Wvsw-_BuoKrOA-b4j6bYGLmDmBbYuA?usp=sharing)
 
