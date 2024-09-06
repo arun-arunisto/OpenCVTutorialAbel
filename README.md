@@ -107,3 +107,7 @@ Pandas Guide
 
 > [!NOTE]
 > Dataset used for the pandas guide link you can find [here](https://drive.google.com/drive/folders/1lRVHYfqEug44NOucsc2OCJcDOQzH3v-4?usp=sharing)
+
+## 06.09.2024
+Numpy Guide 
+
