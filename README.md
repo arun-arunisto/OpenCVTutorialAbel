@@ -109,5 +109,10 @@ Pandas Guide
 > Dataset used for the pandas guide link you can find [here](https://drive.google.com/drive/folders/1lRVHYfqEug44NOucsc2OCJcDOQzH3v-4?usp=sharing)
 
 ## 06.09.2024
-Numpy Guide 
+- Numpy Guide 
+- Seaborn Guide
+
+  > [!NOTE]
+  > For seaborn you can use the datasets from [here.](https://drive.google.com/drive/folders/1X5Wvsw-_BuoKrOA-b4j6bYGLmDmBbYuA?usp=sharing)
+  > And the colab notebook for all the maps you can find [here.](https://drive.google.com/drive/folders/1X5Wvsw-_BuoKrOA-b4j6bYGLmDmBbYuA?usp=sharing)
 
