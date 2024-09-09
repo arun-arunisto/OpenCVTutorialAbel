@@ -118,6 +118,9 @@ Pandas Guide
 
 ## 09.09.2024
 - Finger Counter using opencv and mediapipe
+
+> [!NOTE]
+> Hnad Tracking module advanced on cv_modules latest updated
   
 
 
