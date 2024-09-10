@@ -121,6 +121,8 @@ Pandas Guide
 
 > [!NOTE]
 > Hnad Tracking module advanced on cv_modules latest updated
-  
+
+## 10.09.2024
+- Virtual Mouse using opencv and mediapipe
 
 
