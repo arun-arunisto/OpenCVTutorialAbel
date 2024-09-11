@@ -125,4 +125,6 @@ Pandas Guide
 ## 10.09.2024
 - Virtual Mouse using opencv and mediapipe
 
+## 11.09.2024
+- Virtual Painter using opencv and mediapipe
 
