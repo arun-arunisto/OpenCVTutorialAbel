@@ -136,5 +136,8 @@ Pandas Guide
 
   Classified parking empty non-empty spots with scikit learn and trained a scikit model
 
+- Parking Spot detector project
+
+  real-time parking spot detector using scikit-learn model
 
 
