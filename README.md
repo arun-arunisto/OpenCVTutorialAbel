@@ -131,3 +131,10 @@ Pandas Guide
 ## 23.09.2024
 - Data Processing for CNN model
 
+## 17.10.2024
+- Image Classification using ScikitLearn
+
+  Classified parking empty non-empty spots with scikit learn and trained a scikit model
+
+
+
