@@ -140,4 +140,6 @@ Pandas Guide
 
   real-time parking spot detector using scikit-learn model
 
+## 04.11.2024
+American Sign Language Detector
 
