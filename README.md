@@ -128,3 +128,18 @@ Pandas Guide
 ## 11.09.2024
 - Virtual Painter using opencv and mediapipe
 
+## 23.09.2024
+- Data Processing for CNN model
+
+## 17.10.2024
+- Image Classification using ScikitLearn
+
+  Classified parking empty non-empty spots with scikit learn and trained a scikit model
+
+- Parking Spot detector project
+
+  real-time parking spot detector using scikit-learn model
+
+## 04.11.2024
+American Sign Language Detector
+
