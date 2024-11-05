@@ -143,3 +143,6 @@ Pandas Guide
 ## 04.11.2024
 American Sign Language Detector
 
+## 05.11.2024
+Car Counter Project
+
