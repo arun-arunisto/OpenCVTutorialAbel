@@ -153,3 +153,6 @@ Swin Transformer for single image
 Using a Pre-trained swin transformer for model classification
 
 For the dataset used in code : (Click Here)[!https://drive.google.com/drive/folders/1siM1lOGZPKKeo4krRCzgGxFk8DyUxL1T?usp=sharing]
+
+## 06.12.2024
+`face_recognition_code` - different use cases of face recognition  using the module [face_recognition](!https://github.com/ageitgey/face_recognition) 
