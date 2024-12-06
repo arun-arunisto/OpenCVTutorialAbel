@@ -143,3 +143,13 @@ Pandas Guide
 ## 04.11.2024
 American Sign Language Detector
 
+## 05.11.2024
+Car Counter Project
+
+## 06.11.2024
+Swin Transformer for single image
+
+## 02.12.2024
+Using a Pre-trained swin transformer for model classification
+
+For the dataset used in code : (Click Here)[!https://drive.google.com/drive/folders/1siM1lOGZPKKeo4krRCzgGxFk8DyUxL1T?usp=sharing]
