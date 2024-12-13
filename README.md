@@ -156,3 +156,4 @@ For the dataset used in code : (Click Here)[!https://drive.google.com/drive/fold
 
 ## 06.12.2024
 `face_recognition_code` - different use cases of face recognition  using the module [face_recognition](!https://github.com/ageitgey/face_recognition) 
+    `recogniting_faces_on_live` - recognising faces on live cam
